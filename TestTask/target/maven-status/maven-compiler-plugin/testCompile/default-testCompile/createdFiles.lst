@@ -1,0 +1,7 @@
+hooks\PropertyFileRead.class
+test\MailTest.class
+page\YandexMail.class
+hooks\CommonMethods.class
+page\BasePage.class
+page\MailBox.class
+test\TestBase.class
